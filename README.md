@@ -6,7 +6,7 @@ An interactive multi-channel retail dashboard analyzing 2022 store sales data â€
 
 ## ðŸ“Œ Dashboard Preview
 
-![Store Annual Reports Dashboard](screenshots/dashboard.png)
+![Store Annual Reports Dashboard](screenshots/annual_store.png)
 
 ---
 
